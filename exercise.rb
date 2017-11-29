@@ -10,7 +10,6 @@ def ordinal_indicator(num)
   else
     return "#{num}th"
   end
-
 end
 
 (0..100).each do |num|
